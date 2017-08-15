@@ -1,2 +1,2 @@
 # basicPython
-My Basic Python Programmes
+This Reprository consists of python programmes i have made.
