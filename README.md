@@ -1,2 +1,2 @@
-# basicPython
-This Reprository consists of python programmes i have made.
+# basicPythonC++
+This Reprository consists of python and c++ programmes i have made.
